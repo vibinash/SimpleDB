@@ -42,11 +42,11 @@ API Reference
 Running in terminal:
 ========
 
-Compile the code:
-    javac SimpleDB.java
-Run it
-    java SimpleDB
-    ...
-    SET A 5
-    GET A 
-    ...
+* Compile the code:
+    * javac SimpleDB.java
+* Run it
+    * java SimpleDB <br/>
+      ...<br/>
+      SET A 5<br/>
+      GET A<br/> 
+      ...
