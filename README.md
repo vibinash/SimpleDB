@@ -38,3 +38,15 @@ API Reference
 	* Similar to a "revert" to an older version in databases
 	* 
 	* If no block has been created, it returns "NO TRANSACTION" or if no operations/commands has been made in the block, it returns "NOTHING TO ROLLBACK TO" and closes the transaction
+
+Running in terminal:
+========
+
+Compile the code:
+    javac SimpleDB.java
+Run it
+    java SimpleDB
+    ...
+    SET A 5
+    GET A 
+    ...
